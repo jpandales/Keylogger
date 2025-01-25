@@ -7,7 +7,7 @@ To develop a keylogger disguised as a harmless file on a user's desktop, designe
 ### Skills Learned
 
 - Malware Development & Analysis
-- Prgramming and Scripting
+- Programming and Scripting
 - Ethical Hacking and Security Awareness
 - Windows System Internals
 - Development of critical thinking and problem-solving skills in cybersecurity.
